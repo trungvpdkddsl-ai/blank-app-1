@@ -47,7 +47,6 @@ FINAL_COLUMNS = [
     'X_loai_dat_2', 'Y_dien_tich_2', 'Z_nguon_goc_2', 'AA_hinh_thuc_2', 'BB_thoi_han_2'
 ]
 
-
 COLUMN_NAMES_VI = {
     'A_ma_dvhc': 'Mã ĐVHC cấp xã',
     'B_so_phat_hanh_gcn': 'Số phát hành GCN',
